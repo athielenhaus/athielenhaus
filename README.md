@@ -1,13 +1,15 @@
-- 👋 Hi, I’m Arne.
+👋 Hello, I’m Arne.
 
-Following a role as a database developer and manager I completed the Ironhack Bootcamp in Data Analytics in Barcelona and have now spent 1 year working as a Data Analyst for New Work SE as part of the XING Jobs team (www.xing.de).
+I develop data science and data analytics solutions, leveraging several years of experience working in business, project management, quality assurance and marketing roles.
 
-I am driven by a passion for learning, as well as a desire to understand how technologies work and positively impact my environment. 
+My data-related professional experience and skills include:
+- training and implementation of Machine Learning models using Scikit-Learn and Tensorflow packages
+- prompt engineering for ChatGPT, in combination with the Openai API and Python
+- cleaning and transforming data using SQL, Pandas, Numpy and PySpark
+- creating fully automated ETL pipelines combining SQL, Airflow and Tableau
+- creating insightful data visualizations using Statistics, Matplotlib, Tableau, Adobe Analytics and Excel 
+- data modeling for relational databases
 
-- 👀 I’m interested in Data Analytics, Data Science, Chatbots, Database Management, Design, Governance, Machine Learning, Deep Learning, Computer Vision
+I am driven by a passion for learning, as well as a desire to positively impact my environment. 
 
-- 🌱 I’m currently learning Python, SQL, Tensorflow/Keras, Tableau
-
-- 💞️ I’m looking to collaborate on pro-bono projects
-
-- 📫 How to reach me: arne.thielenhaus@gmail.com or contact me on [LinkedIn](https://www.linkedin.com/in/arne-thielenhaus/)
+📫 How to reach me: arne.thielenhaus@gmail.com or contact me on [LinkedIn](https://www.linkedin.com/in/arne-thielenhaus/)
