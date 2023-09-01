@@ -1,6 +1,6 @@
 Hello, I’m Arne. Thanks for visiting my profile.
 
-I develop data science and data analytics solutions, leveraging several years of experience working in business, project management, quality assurance and marketing roles.
+I develop __data science and machine learning__ solutions, leveraging several years of experience working in business, project management, quality assurance and marketing roles.
 
 My fields of interest include Education & Training, Languages, Sustainable Supply Chains, Renewable Energy, Mobility, Sharing Economy, and sustainability in general. I am happy to dedicate time to non-profit and social impact projects (please DM me). 
 
