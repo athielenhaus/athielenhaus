@@ -4,4 +4,4 @@ I develop __data science and machine learning__ solutions, leveraging several ye
 
 My fields of interest include Education & Training, Languages, Sustainable Supply Chains, Renewable Energy, Mobility, Sharing Economy, and sustainability in general. I am happy to dedicate time to non-profit and social impact projects (please DM me). 
 
-📫 How to reach me: arne.thielenhaus@gmail.com or contact me on [LinkedIn](https://www.linkedin.com/in/arne-thielenhaus/)
+📫 Contact me via arne.thielenhaus@gmail.com or on [LinkedIn](https://www.linkedin.com/in/arne-thielenhaus/)
