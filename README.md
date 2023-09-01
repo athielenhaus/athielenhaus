@@ -1,4 +1,4 @@
-👋 Hello, I’m Arne.
+Hello, I’m Arne. Thanks for visiting my profile.
 
 I develop data science and data analytics solutions, leveraging several years of experience working in business, project management, quality assurance and marketing roles.
 
