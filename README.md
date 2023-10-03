@@ -7,7 +7,7 @@ My fields of interest include Education & Training, Languages, Sustainable Suppl
 Here are some of my recent projects:
 
 __Predicting housing prices in King County:__  
-For this project I use extensive EDA, feature extraction / engineering and Linear Models to predict housing prices.
+For this project I use extensive EDA, feature extraction / engineering and Linear Models to predict housing prices.  
 [see repository](https://github.com/athielenhaus/Housing-Price-Prediction/tree/main)
 
 __Document Chatbot:__   
