@@ -4,7 +4,7 @@ I develop __data science and machine learning__ solutions, leveraging several ye
 
 My fields of interest include Education & Training, Languages, Sustainable Supply Chains, Renewable Energy, Mobility, Sharing Economy, and sustainability in general. I am happy to dedicate time to non-profit and social impact projects (please DM me). 
 
-Here are some of my recent projects:
+__Here are some of my recent projects:__  
 
 __Predicting housing prices in King County:__  
 For this project I use extensive EDA, feature extraction / engineering and Linear Models to predict housing prices.  
