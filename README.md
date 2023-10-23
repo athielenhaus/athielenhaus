@@ -11,7 +11,7 @@ I use the OpenAI API to parse job postings and determine if they have contents o
 [see repository](https://github.com/athielenhaus/ChatGPT-assisted-parsing-of-job-postings)
 
 __Predicting housing prices in King County:__  
-In this project I use extensive EDA, do feature extraction / engineering, test different Linear Models to predict housing prices, and also learn about Queen Anne architecture.
+In this project I use extensive EDA, do feature extraction / engineering, test different Linear Models to predict housing prices, and also learn about Queen Anne architecture.  
 [see repository](https://github.com/athielenhaus/Housing-Price-Prediction/tree/main)
 
 __Document Chatbot:__   
