@@ -1,6 +1,6 @@
 Hello, I’m Arne. Thanks for visiting my profile.
 
-I develop __data science and machine learning__ solutions, leveraging several years of experience working in data, project management, quality assurance and marketing roles ("whats next? zookeeper??" - my mom).
+I develop __data science and machine learning__ solutions, leveraging several years of experience working in data, project management, quality assurance and marketing roles.
 
 I am happy to dedicate time to non-profit and social impact projects (please DM me). 
 
