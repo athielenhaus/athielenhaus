@@ -1,6 +1,6 @@
 Hello, I’m Arne. Thanks for visiting my profile.
 
-I develop __data and machine learning__ solutions and __manage digital products and processes__, leveraging several years of experience working in data, project management, quality assurance and marketing roles.
+I do __data analytics, data engineering and machine learning__ and __manage digital products and processes__, leveraging several years of experience working in data, project management, quality assurance and marketing roles.
 
 I am happy to dedicate time to non-profit and social impact projects (please DM me). 
 
